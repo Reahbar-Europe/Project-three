@@ -1,0 +1,23 @@
+nav ol {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: aquamarine;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.h1 {
+    text-align: center;
+    
+}
+
